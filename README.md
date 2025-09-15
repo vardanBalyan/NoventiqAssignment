@@ -54,7 +54,7 @@ dotnet run --project NoventiqAssignment.API
 ### 5️⃣ Test with Swagger
 Once the project is running, open your browser at:
 
-👉 [https://localhost:7037/swagger]((https://localhost:7037/swagger))  
+👉 [https://localhost:7037/swagger](https://localhost:7037/swagger)  
 
 You can test all endpoints directly from Swagger UI.
 
